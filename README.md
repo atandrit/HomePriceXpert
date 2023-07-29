@@ -32,7 +32,3 @@ You can access the live demo of the web app [here](https://homepricexpert.stream
 ## Author
 
 - Atandrit Chatterjee ([@atandrit](https://github.com/atandrit))
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -1,6 +1,6 @@
-# Bangalore Home Price Prediction
+# HomePriceXpert - Bangalore Home Price Estimator
 
-https://github.com/atandrit/HomePriceXpert/assets/91213354/25185a95-c084-4893-96c5-3f582e27b07c
+[App ScreenShot](https://github.com/atandrit/HomePriceXpert/assets/91213354/25185a95-c084-4893-96c5-3f582e27b07c)
 
 ## Description
 
